@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Mern,Java,C++**
 
-- 👨‍💻 All of my projects are available at [parmarth-portfolio-parmarths-projects-b83c906e.vercel.app](parmarth-portfolio-parmarths-projects-b83c906e.vercel.app)
-
-- 📫 How to reach me **gambhirsujal25@gmail.com**
+-  🌱 All of my projects are available at (https://github.com/Parmarthcse)
+👨‍💻Visit my Portfolio at parmarth-portfolio-parmarths-projects-b83c906e.vercel.app
+- 📫 How to reach me **gambhirsujal24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
