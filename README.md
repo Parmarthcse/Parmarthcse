@@ -11,7 +11,7 @@
 
 -  🌱 All of my projects are available at (https://github.com/Parmarthcse)
 -  
-👨‍💻Visit my Portfolio at (parmarth-portfolio-parmarths-projects-b83c906e.vercel.app)
+👨‍💻Visit my Portfolio at (https://parmarth-portfolio-parmarths-projects-b83c906e.vercel.app)
 - 📫 How to reach me **gambhirsujal24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
