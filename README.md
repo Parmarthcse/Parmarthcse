@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 <h1 align="center">Hi 👋, I'm Parmarth</h1>
-<h3 align="center">A passionate fullstack developer from india</h3>
+<h3 align="center">A Passionate Fullstack Developer From India</h3>
 <img align="right mt-5 mb-4 justify-between" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parmarthcse&label=Profile%20views&color=0e75b6&style=flat" alt="parmarthcse" /> </p>
